@@ -20,7 +20,8 @@
     <p><a herf="https://www.luogu.com.cn/user/143693">章民泽太帅了!</a></p>
     <br><br><br><hr />
     <h3>ZMZ AK IOI!</h3>
-    <button type="button" onclick="added()">点此膜拜ZMZ</button>
+    <button type="button" onclick="added()">点此膜拜ZMZ</button><br>
+    <meter value="pre" min="0" max="100"></meter>
   </main>
   <aside>
     <br><br><br>
