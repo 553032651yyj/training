@@ -10,7 +10,7 @@
     <script>
        function added(){
            pre+=1;
-           document.getElementById("demo").innerHTML = pre;
+           window.alert("膜拜成功!");
        }
     </script>
     <h3>网站介绍:</h3>
