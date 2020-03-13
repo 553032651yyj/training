@@ -21,7 +21,7 @@
     <br><br><br><hr />
     <h3>ZMZ AK IOI!</h3>
     <button type="button" onclick="added()">点此膜拜ZMZ</button><br>
-    <meter value=pre min="0" max="10"></meter>
+    <meter value=pre min="0" max="100">pre/100</meter>
   </main>
   <aside>
     <br><br><br>
