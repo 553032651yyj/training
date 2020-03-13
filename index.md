@@ -7,8 +7,9 @@
     <b>网站介绍:</b>
     <li>本网站用于蒟蒻yyj学习html</li>
     <li>同时膜拜章民泽巨佬</li>
-    <p>"章民泽太帅了!"</p>
-    <a herf="https://www.luogu.com.cn/paste/ecqdyqe3">ZMZ AK IOI!"</a>
+    <p>章民泽太帅了!</p>
+    <a herf="https://www.luogu.com.cn/paste/ecqdyqe3">ZMZ AK IOI!</a>
+    <br>
     <button type="button">点此增加ZMZ AK IOI的成功率</button>
   </main>
   <aside>
