@@ -5,6 +5,6 @@
 </head>
 <body>
   章民泽太帅了!
-  <p contenteditable="true">写点什么</p>
+  <a herf="https://www.luogu.com.cn/paste/ecqdyqe3">ZMZ AK IOI!</a>
 </body>
 </html>
