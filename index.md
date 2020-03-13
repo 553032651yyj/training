@@ -16,7 +16,7 @@
     <button type="button" onclick="pre+=1">点此增加ZMZ AK IOI的次数</button>
     <b>章民泽的膜拜次数:</b>
     <script>
-        document.write(pre);
+        consolas.log(pre);
     </script>
   </main>
   <aside>
