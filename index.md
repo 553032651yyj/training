@@ -33,6 +33,7 @@
     </figure>
     <form action="say.asp" method="get">
       想对ZMZ巨佬说什么:<input type="text" name="fname" />
+      <input type="submit" value="Submit" />
     </form>
     <footer>
       <hr />
