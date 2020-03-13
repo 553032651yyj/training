@@ -17,11 +17,10 @@
     <li>本网站用于蒟蒻yyj学习html</li>
     
 <li>同时膜拜<a herf="https://www.luogu.com.cn/user/143693">章民泽巨佬</a></li>
-    <p>章民泽太帅了!</p>
+    <p><a herf="https://www.luogu.com.cn/user/143693">章民泽太帅了!</a></p>
     <br><br><br>
     <h3>ZMZ AK IOI!</h3>
     <button type="button" onclick="added()">点此膜拜ZMZ</button>
-    
   </main>
   <aside>
     <br><br><br>
