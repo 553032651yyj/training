@@ -30,6 +30,9 @@
     <figure>
       <img src="https://s2.ax1x.com/2019/06/17/Vb3bs1.png" width="299" height="293" />
     </figure>
+    <footer>
+      <p>Author:<a href="https://www.luogu.com.cn/user/205821">553032651yyj</a></p>
+</footer>
   </aside>
 </body>
 </html>
