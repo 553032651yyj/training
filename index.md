@@ -27,6 +27,9 @@
     <div style="color:#00FFFF">
       <h3>膜拜章民泽</h3>
     </div>
+    <figure>
+      <img src="https://s2.ax1x.com/2019/06/17/Vb3bs1.png" width="299" height="293" />
+    </figure>
   </aside>
 </body>
 </html>
