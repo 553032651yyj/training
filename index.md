@@ -8,5 +8,8 @@
     <p>"章民泽太帅了!"</p>
     <a herf="https://www.luogu.com.cn/paste/ecqdyqe3">"ZMZ AK IOI!"</a>
   </main>
+  <aside>
+    <p>膜拜章民泽网站</p>
+  </aside>
 </body>
 </html>
