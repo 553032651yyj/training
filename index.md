@@ -13,13 +13,12 @@
            window.alert("膜拜成功!"); 
        }
      </script>
-    <hr />
     <h3>网站介绍:</h3>
     <li>本网站用于蒟蒻yyj学习html</li>
     
 <li>同时膜拜<a herf="https://www.luogu.com.cn/user/143693">章民泽巨佬</a></li>
     <p><a herf="https://www.luogu.com.cn/user/143693">章民泽太帅了!</a></p>
-    <br><br><br>
+    <br><br><br><hr />
     <h3>ZMZ AK IOI!</h3>
     <button type="button" onclick="added()">点此膜拜ZMZ</button>
   </main>
