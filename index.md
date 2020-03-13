@@ -10,8 +10,7 @@
     <script>
        function added(){
            pre+=1;
-           document.write("章民泽被膜拜的次数:");
-           document.write(pre);
+           window.alert(pre); 
        }
      </script>
     <h3>网站介绍:</h3>
@@ -20,9 +19,7 @@
     <p>章民泽太帅了!</p>
     <br><br><br>
     <h3>ZMZ AK IOI!</h3>
-    <button type="button" onclick="added()">点此膜拜ZMZ
-
-</button>
+    <button type="button" onclick="added()">点此膜拜ZMZ</button>
     
   </main>
   <aside>
