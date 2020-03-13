@@ -21,7 +21,8 @@
     <br><br><br><hr />
     <h3>ZMZ AK IOI!</h3>
     <button type="button" onclick="added()">点此膜拜ZMZ</button><br>
-    <meter value=pre min="0" max="100">pre/100</meter>
+    <meter value=pre min="0" max="100"></meter>
+    ZMZ巨佬的IQ:<form oninput="x.value=parseInt(a.value)+parseInt(b.value)">100<input type="range" id="a" value="150">200
   </main>
   <aside>
     <br><br><br>
