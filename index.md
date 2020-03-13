@@ -6,7 +6,7 @@
 <body>
   <main>
     <script>
-        var pre=0;
+        var pre=0,x=1;
     </script>
     <b>网站介绍:</b>
     <li>本网站用于蒟蒻yyj学习html</li>
@@ -14,7 +14,8 @@
     <p>章民泽太帅了!</p>
     <a herf="https://www.luogu.com.cn/paste/ecqdyqe3">ZMZ AK IOI!</a>
     <br>
-    <button type="button" onclick="pre=pre+1">点此增加ZMZ AK IOI的次数</button>
+    <button type="button" onclick="pre+=x">点此增加ZMZ AK IOI的次数</button>
+    <br>
     <b>章民泽的膜拜次数:</b>
     <script>
         document.write(pre);
