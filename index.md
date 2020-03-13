@@ -21,8 +21,8 @@
   </main>
   <aside>
     <br><br><br>
-    <p>膜拜章民泽</p>
-    <br><b>您现在的时间是:</b>
+    <h3>膜拜章民泽</h3>
+    <p>您现在的时间是:</p>
     <script>
       document.write(Date());
     </script>
