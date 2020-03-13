@@ -24,7 +24,9 @@
   </main>
   <aside>
     <br><br><br>
-    <h3>膜拜章民泽</h3>
+    <div style="color:#00FFFF">
+      <h3>膜拜章民泽</h3>
+    </div>
   </aside>
 </body>
 </html>
