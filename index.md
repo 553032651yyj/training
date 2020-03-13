@@ -1,6 +1,5 @@
 <html lang="zh">
-<head>    
-<meta charset="UTF-8">    
+<head>   
    <title>章民泽很帅</title>
 </head>
 <body>
