@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="zh">
 <head>       
    <title>膜拜章民泽网站</title>
