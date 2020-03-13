@@ -5,5 +5,6 @@
 </head>
 <body>
   章民泽太帅了!
+  <p contenteditable="true">写点什么</p>
 </body>
 </html>
