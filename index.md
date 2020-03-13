@@ -21,7 +21,9 @@
     <br><br><br><hr />
     <h3>ZMZ AK IOI!</h3>
     <button type="button" onclick="added()">点此膜拜ZMZ</button><br>
-    100<input type="range" id="a" value="150">200 <-ZMZ的IQ
+    <progress value=pre max="50">
+    </progress>
+    100<input type="range" id="a" value="150">200
   </main>
   <aside>
     <br><br><br>
