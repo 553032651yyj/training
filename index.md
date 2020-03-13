@@ -10,7 +10,7 @@
     <script>
        function added(){
            pre+=1;
-           windows.alert("膜拜成功!");
+           document.getElementById("demo").innerHTML = pre;
        }
     </script>
     <h3>网站介绍:</h3>
@@ -21,7 +21,6 @@
     <br><br><br><hr />
     <h3>ZMZ AK IOI!</h3>
     <button type="button" onclick="added()">点此膜拜ZMZ</button><br>
-    <progress>
     100<input type="range" id="a" value="150">200
   </main>
   <aside>
