@@ -5,7 +5,7 @@
 </head>
 <body>
   <li>
-    <p>"章民泽太帅了!"</p><
+    <p>"章民泽太帅了!"</p>
     <a herf="https://www.luogu.com.cn/paste/ecqdyqe3">我爱章民泽</a>
   </li>
 </body>
