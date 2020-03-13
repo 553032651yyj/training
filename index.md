@@ -31,6 +31,9 @@
     <figure>
       <img src="https://s2.ax1x.com/2019/06/17/Vb3bs1.png" width="299" height="293" />
     </figure>
+    <form action="say.asp" method="get">
+      想对ZMZ巨佬说什么:<input type="text" name="fname" />
+    </form>
     <footer>
       <hr />
       <p>Author:<a href="https://www.luogu.com.cn/user/205821">553032651yyj</a></p>
