@@ -16,11 +16,16 @@
     <button type="button" onclick="pre+=1">点此增加ZMZ AK IOI的次数</button>
     <b>章民泽的膜拜次数:</b>
     <script>
-        consolas.log(pre);
+        document.write(pre);
     </script>
   </main>
   <aside>
+    <br><br><br>
     <p>膜拜章民泽</p>
+    <br><b>您现在的时间是:</b>
+    <script>
+      document.write(Date());
+    </script>
   </aside>
 </body>
 </html>
